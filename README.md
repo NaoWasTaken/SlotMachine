@@ -1,1 +1,3 @@
-Copy & Paste the code and enjoy a slot machine lol  
+Python based slot machine
+copy & paste code
+Runs in terminal
